@@ -1,0 +1,10 @@
+[package]
+name = "SigmaOS-pdf"
+version = "0.1.0"
+edition = "2021"
+license = "Apache-2.0"
+description = "SigmaOS pdf component"
+
+[lib]
+name = "pdf"
+path = "src/lib.rs"
