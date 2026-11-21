@@ -4,6 +4,9 @@
 //! Real implementation: pdf_items, events, validation, deterministic storage.
 //! Replaces the placeholder stub.
 
+/// PDF document management module.
+pub mod sigmapdf;
+
 use std::collections::BTreeMap;
 use std::fmt;
 
