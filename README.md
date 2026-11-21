@@ -1,9 +1,9 @@
 # SigmaOS-pdf
 
-PDF reader component for SigmaOS
+PDF Viewer for SigmaOS inspired by SigmaOS Linux
 
-- **Category:** Developer Tools
-- **Engine:** common_lib
+- **Category:** Utilities
+- **Engine:** pdf_viewer
 - **Language:** Rust
 
 ## Build & Test
